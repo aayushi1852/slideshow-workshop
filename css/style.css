@@ -14,9 +14,7 @@ figure, h1{
     align-items: center;
     height: 100vh;
 }
-body{
-    background-color:rgb(152, 194, 113);
-}
+
 h1{
     padding-top: 50px;
 }
